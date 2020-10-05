@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>@1xicons/filter</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.54588341,12.8562087 L3.19498146,5.34626711 C2.74533878,4.81456464 3.12327376,4 3.81961136,4 L20.1803886,4 C20.8767262,4 21.2546612,4.81456464 20.8050185,5.34626711 L14.4541166,12.8562087 L14.4541166,19.5427384 C14.4541166,20.1508538 13.8141546,20.5463721 13.2702396,20.2744146 L9.99808417,18.6383369 C9.72094567,18.4997676 9.54588341,18.216511 9.54588341,17.9066607 L9.54588341,12.8562087 Z M18.4172665,5.63607773 L5.58273352,5.63607773 L10.9885522,12.0284583 C11.1134374,12.1761351 11.1819611,12.3632834 11.1819611,12.5566865 L11.1819611,17.4010849 L12.8180389,18.2191237 L12.8180389,12.5566865 C12.8180389,12.3632834 12.8865626,12.1761351 13.0114478,12.0284583 L18.4172665,5.63607773 Z" id="path-1"></path>
+    </defs>
+    <g id="icons/filter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Bounds" stroke="#979797" stroke-width="0.01" points="0 0 24 0 24 24 0 24"></polygon>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Shape" fill="#23252A" xlink:href="#path-1"></use>
+    </g>
+</svg>

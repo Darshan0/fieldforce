@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>@1xicons/triplist</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19,17 C19.5522847,17 20,17.4477153 20,18 C20,18.5522847 19.5522847,19 19,19 L19,19 L6,19 C5.44771525,19 5,18.5522847 5,18 C5,17.4477153 5.44771525,17 6,17 L6,17 Z M6,11 L15,11 C15.5522847,11 16,11.4477153 16,12 C16,12.5128358 15.6139598,12.9355072 15.1166211,12.9932723 L15,13 L6,13 C5.44771525,13 5,12.5522847 5,12 C5,11.4871642 5.38604019,11.0644928 5.88337887,11.0067277 L6,11 L15,11 Z M6,5 L19,5 C19.5522847,5 20,5.44771525 20,6 C20,6.51283584 19.6139598,6.93550716 19.1166211,6.99327227 L19,7 L6,7 C5.44771525,7 5,6.55228475 5,6 C5,5.48716416 5.38604019,5.06449284 5.88337887,5.00672773 L6,5 L19,5 Z" id="path-1"></path>
+    </defs>
+    <g id="icons/triplist" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#23252A" xlink:href="#path-1"></use>
+        <polygon id="Bounds" stroke="#979797" stroke-width="0.01" points="0 0 24 0 24 24 0 24"></polygon>
+    </g>
+</svg>
